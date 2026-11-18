@@ -84,15 +84,15 @@ This exercise demonstrated:
 
 ### User Administration
 
-*Upload screenshot: users-overview.png*
+![User Administration](images/users-overview.png)
 
 ### Group Administration
 
-*Upload screenshot: groups-overview.png*
+![Group Administration](images/groups-overview.png)
 
 ### Group Membership Management
 
-*Upload screenshot: group-membership.png*
+![Group Membership Management](images/group-membership.png)
 
 ## Lessons Learned
 
